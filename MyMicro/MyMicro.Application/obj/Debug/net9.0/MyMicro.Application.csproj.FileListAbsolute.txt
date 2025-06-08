@@ -1,0 +1,15 @@
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/bin/Debug/net9.0/MyMicro.Application.deps.json
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/bin/Debug/net9.0/MyMicro.Application.dll
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/bin/Debug/net9.0/MyMicro.Application.pdb
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/bin/Debug/net9.0/MyMicro.Domain.dll
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/bin/Debug/net9.0/MyMicro.Domain.pdb
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/obj/Debug/net9.0/MyMicro.Application.csproj.AssemblyReference.cache
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/obj/Debug/net9.0/MyMicro.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/obj/Debug/net9.0/MyMicro.Application.AssemblyInfoInputs.cache
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/obj/Debug/net9.0/MyMicro.Application.AssemblyInfo.cs
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/obj/Debug/net9.0/MyMicro.Application.csproj.CoreCompileInputs.cache
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/obj/Debug/net9.0/MyMicro..7FBE5467.Up2Date
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/obj/Debug/net9.0/MyMicro.Application.dll
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/obj/Debug/net9.0/refint/MyMicro.Application.dll
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/obj/Debug/net9.0/MyMicro.Application.pdb
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/obj/Debug/net9.0/ref/MyMicro.Application.dll

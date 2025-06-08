@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.API/MyMicro.API.csproj": {}
+  },
+  "projects": {
+    "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.API/MyMicro.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.API/MyMicro.API.csproj",
+        "projectName": "MyMicro.API",
+        "projectPath": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.API/MyMicro.API.csproj",
+        "packagesPath": "/home/mtejadaj/.nuget/packages/",
+        "outputPath": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mtejadaj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/MyMicro.Application.csproj": {
+                "projectPath": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/MyMicro.Application.csproj"
+              },
+              "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/MyMicro.Infrastructure.csproj": {
+                "projectPath": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/MyMicro.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/MyMicro.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/MyMicro.Application.csproj",
+        "projectName": "MyMicro.Application",
+        "projectPath": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/MyMicro.Application.csproj",
+        "packagesPath": "/home/mtejadaj/.nuget/packages/",
+        "outputPath": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mtejadaj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/MyMicro.Domain.csproj": {
+                "projectPath": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/MyMicro.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/MyMicro.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/MyMicro.Domain.csproj",
+        "projectName": "MyMicro.Domain",
+        "projectPath": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/MyMicro.Domain.csproj",
+        "packagesPath": "/home/mtejadaj/.nuget/packages/",
+        "outputPath": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mtejadaj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/MyMicro.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/MyMicro.Infrastructure.csproj",
+        "projectName": "MyMicro.Infrastructure",
+        "projectPath": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/MyMicro.Infrastructure.csproj",
+        "packagesPath": "/home/mtejadaj/.nuget/packages/",
+        "outputPath": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mtejadaj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/MyMicro.Application.csproj": {
+                "projectPath": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Application/MyMicro.Application.csproj"
+              },
+              "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/MyMicro.Domain.csproj": {
+                "projectPath": "/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/MyMicro.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

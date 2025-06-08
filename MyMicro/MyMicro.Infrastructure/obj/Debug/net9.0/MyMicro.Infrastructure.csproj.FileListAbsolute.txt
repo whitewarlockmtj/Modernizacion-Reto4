@@ -1,0 +1,17 @@
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/bin/Debug/net9.0/MyMicro.Infrastructure.deps.json
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/bin/Debug/net9.0/MyMicro.Infrastructure.dll
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/bin/Debug/net9.0/MyMicro.Infrastructure.pdb
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/bin/Debug/net9.0/MyMicro.Application.dll
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/bin/Debug/net9.0/MyMicro.Domain.dll
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/bin/Debug/net9.0/MyMicro.Domain.pdb
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/bin/Debug/net9.0/MyMicro.Application.pdb
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/obj/Debug/net9.0/MyMicro.Infrastructure.csproj.AssemblyReference.cache
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/obj/Debug/net9.0/MyMicro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/obj/Debug/net9.0/MyMicro.Infrastructure.AssemblyInfoInputs.cache
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/obj/Debug/net9.0/MyMicro.Infrastructure.AssemblyInfo.cs
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/obj/Debug/net9.0/MyMicro.Infrastructure.csproj.CoreCompileInputs.cache
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/obj/Debug/net9.0/MyMicro..0235B602.Up2Date
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/obj/Debug/net9.0/MyMicro.Infrastructure.dll
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/obj/Debug/net9.0/refint/MyMicro.Infrastructure.dll
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/obj/Debug/net9.0/MyMicro.Infrastructure.pdb
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Infrastructure/obj/Debug/net9.0/ref/MyMicro.Infrastructure.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "G85D/6qInaKbYKXRks0viAm1CP29PlkIyXfhlqyPQw8=",
+  "Source": "MyMicro.API",
+  "BasePath": "_content/MyMicro.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

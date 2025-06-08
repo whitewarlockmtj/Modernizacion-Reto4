@@ -1,0 +1,11 @@
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/bin/Debug/net9.0/MyMicro.Domain.deps.json
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/bin/Debug/net9.0/MyMicro.Domain.dll
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/bin/Debug/net9.0/MyMicro.Domain.pdb
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/obj/Debug/net9.0/MyMicro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/obj/Debug/net9.0/MyMicro.Domain.AssemblyInfoInputs.cache
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/obj/Debug/net9.0/MyMicro.Domain.AssemblyInfo.cs
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/obj/Debug/net9.0/MyMicro.Domain.csproj.CoreCompileInputs.cache
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/obj/Debug/net9.0/MyMicro.Domain.dll
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/obj/Debug/net9.0/refint/MyMicro.Domain.dll
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/obj/Debug/net9.0/MyMicro.Domain.pdb
+/home/mtejadaj/DevProjects/LiteThinking/Modernizacion/Modernizacion-Reto4/MyMicro/MyMicro.Domain/obj/Debug/net9.0/ref/MyMicro.Domain.dll
